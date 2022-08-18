@@ -85,7 +85,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <p:Get_Dirty_EGLD_Price DisplayName="Get Dirty EGLD Price" sap:VirtualizedContainerService.HintSize="262.4,22.4" sap2010:WorkflowViewState.IdRef="Get_Dirty_EGLD_Price_1" Output="[PretRaw]" />
+    <p:Get_Dirty_EGLD_Price DisplayName="aaaGet Dirty EGLD Price" sap:VirtualizedContainerService.HintSize="262.4,22.4" sap2010:WorkflowViewState.IdRef="Get_Dirty_EGLD_Price_1" Output="[PretRaw]" />
     <Assign sap:VirtualizedContainerService.HintSize="262.4,60" sap2010:WorkflowViewState.IdRef="Assign_1">
       <Assign.To>
         <OutArgument x:TypeArguments="x:String">[PretProcesat]</OutArgument>
