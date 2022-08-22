@@ -3,7 +3,7 @@
   "description": "using custom library",
   "main": "Main.xaml",
   "dependencies": {
-    "PriceLib": "[1.0.5]",
+    "PriceLib": "[1.0.6]",
     "UiPath.Excel.Activities": "[2.9.5]",
     "UiPath.Mail.Activities": "[1.9.5]",
     "UiPath.System.Activities": "[20.10.4]",
